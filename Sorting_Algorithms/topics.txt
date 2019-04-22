@@ -1,0 +1,6 @@
+Sorting Algorithms in Python: A Sorted Tale project was developed by applying the following sorting algorithms:
+-- Bubble Sort
+-- Merger Sort
+-- Quick Sort
+-- Radix Sort 
+- 
