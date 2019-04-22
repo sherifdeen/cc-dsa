@@ -1,0 +1,10 @@
+++++++++++++++++++++++++++++++++ A Sorted Tale Project Directives  +++++++++++++++++++++++++++++++++++++++++++
+
+The owner provides the current state of the bookshelf in a comma-separated values, or csv, file. To get you
+started, we have provided a function load_books, defined in utils.py.
+
+Within script.py, we are loading the books from books_small.csv. This list of 10 books makes it easier to
+determine how the algorithms are behaving. we’ll use this to develop the algorithms and then we’ll try them out
+later on the larger file.
+
+Add a for loop to print the titles within the bookshelf.
