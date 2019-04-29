@@ -1,4 +1,4 @@
-======================================= Blossom: Hash Maps Project ===========================================
+                                             Blossom: Hash Maps Project 
 
 In this project, we are going to implement a hash map to relate the names of flowers to their meanings. 
 In order to avoid collisions when our hashing function collides the names of two flowers, we are going to use
